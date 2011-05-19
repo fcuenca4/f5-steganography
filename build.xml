@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="jar" name="Create Runnable Jar for Project F5 Steganography">
+    <target name="jar">
+        <jar destfile="f5.jar">
+            <manifest>
+                <attribute name="Main-Class" value="Main" />
+            </manifest>
+            <fileset dir="bin" />
+        </jar>
+    </target>
+</project>
