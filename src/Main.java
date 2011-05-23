@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+import main.Embed;
+import main.Extract;
+
 /*
  * Created on May 18, 2011
  */

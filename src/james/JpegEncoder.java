@@ -25,8 +25,8 @@ import java.awt.Image;
 import java.awt.MediaTracker;
 import java.awt.image.PixelGrabber;
 import java.io.BufferedOutputStream;
-import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.Vector;
 
@@ -901,7 +901,7 @@ public class JpegEncoder extends Frame {
             53, 60, 61, 54, 47, 55, 62, 63, };
 
     // westfeld
-    FileInputStream embeddedData = null;
+    InputStream embeddedData = null;
 
     String password = null;
 
@@ -945,7 +945,7 @@ public class JpegEncoder extends Frame {
         }
     }
 
-    public void Compress(final FileInputStream embeddedData, final String password) {
+    public void Compress(final InputStream embeddedData, final String password) {
         this.embeddedData = embeddedData;
         this.password = password;
         Compress();

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/F5 Steganography/src/Embed.java"/>
+<listEntry value="/f5-steganography/src/main/Embed.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Embed"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="main.Embed"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-e sample/msg.txt -p geheim -q 70 sample/pic.jpg sample/enc.jpg"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="F5 Steganography"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="f5-steganography"/>
 </launchConfiguration>
