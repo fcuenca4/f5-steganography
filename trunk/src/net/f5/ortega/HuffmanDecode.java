@@ -26,7 +26,7 @@
 //
 // changes by Andreas Westfeld
 // <mailto:westfeld@inf.tu-dresden.de>
-package ortega;
+package net.f5.ortega;
 
 //
 // Mar 15 1999

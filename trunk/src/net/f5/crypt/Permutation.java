@@ -1,4 +1,4 @@
-package crypt;
+package net.f5.crypt;
 
 public class Permutation {
     int[] shuffled; // shuffled sequence

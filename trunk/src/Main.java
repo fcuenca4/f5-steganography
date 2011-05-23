@@ -1,7 +1,8 @@
 import java.util.Arrays;
 
-import main.Embed;
-import main.Extract;
+import net.f5.Embed;
+import net.f5.Extract;
+
 
 /*
  * Created on May 18, 2011
