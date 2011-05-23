@@ -1,4 +1,4 @@
-package crypt;
+package net.f5.crypt;
 
 import sun.security.provider.SecureRandom;
 

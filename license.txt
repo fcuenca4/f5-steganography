@@ -1,3 +1,28 @@
+This software is based in part on the work of
+James R. Weeks/BioElectroMech, james@obrador.com, and the Independent
+	JPEG Group (package james)
+Sean Breslin/Dr. Ortega (package ortega)
+John Walker, kelvin@fourmilab.ch (package randomX)
+
+Original F5 Algo
+Andreas Westfeld, westfeld@inf.tu-dresden.de, http://www.inf.tu-dresden.de/~aw4
+
+This implementation
+Christoph Gaffga, cgaffga@gmail.com
+
+
+The rest of this software is released under the GPL. See below for details.
+see also: https://code.google.com/p/f5-steganography/
+
+
+
+
+
+
+==============================================================================
+
+
+
 		    GNU GENERAL PUBLIC LICENSE
 		       Version 2, June 1991
 

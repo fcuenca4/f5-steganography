@@ -1,4 +1,4 @@
-package main;
+package net.f5;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -7,9 +7,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
-import ortega.HuffmanDecode;
-import crypt.F5Random;
-import crypt.Permutation;
+import net.f5.crypt.F5Random;
+import net.f5.crypt.Permutation;
+import net.f5.ortega.HuffmanDecode;
+
 
 public class Extract {
     private static File f; // carrier file

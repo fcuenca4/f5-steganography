@@ -1,4 +1,4 @@
-package image;
+package net.f5.image;
 
 import java.awt.Image;
 import java.awt.Toolkit;

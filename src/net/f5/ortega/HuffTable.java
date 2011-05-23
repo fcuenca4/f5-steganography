@@ -34,7 +34,7 @@
  */
 
 // westfeld
-package ortega;
+package net.f5.ortega;
 
 import java.io.DataInputStream;
 import java.io.IOException;

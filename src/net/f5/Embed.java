@@ -1,6 +1,5 @@
-package main;
+package net.f5;
 
-import image.Bmp;
 import james.JpegEncoder;
 
 import java.awt.Image;
@@ -9,6 +8,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+
+import net.f5.image.Bmp;
 
 public class Embed {
     public static void main(final String args[]) {
